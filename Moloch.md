@@ -1,4 +1,4 @@
-## De Guildas de Jogos para a Web3: Como nos Organizamos para Derrotar Moloch
+# De Guildas de Jogos para a Web3: Como nos Organizamos para Derrotar Moloch
 
 Se você já jogou ou acompanhou jogos online como World of Warcraft, provavelmente já ouviu falar das "Raids". São missões onde dezenas de jogadores, muitas vezes espalhados pelo mundo e sem se conhecerem fisicamente, organizam-se de forma impressionante para derrotar um inimigo em comum. A sincronia e a cooperação são totais.
 
